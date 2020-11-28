@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>item</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-28 10:14:25</sys_created_on>
+        <sys_id>d52edbb0db34201080c7e9c9489619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item</sys_name>
+        <sys_package display_value="Wish List" source="x_324564_wish_list">fbc917fcdbf0201080c7e9c9489619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">fbc917fcdbf0201080c7e9c9489619d4</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d52edbb0db34201080c7e9c9489619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-28 10:14:25</sys_updated_on>
+        <table>x_324564_wish_list_wish_item</table>
+        <ui_policy display_value="show popup">cfad57b0db34201080c7e9c9489619b8</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
